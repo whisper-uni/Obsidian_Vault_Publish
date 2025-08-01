@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "6f1db8631d9b9362",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e782c8703bb20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cec1976946232b58",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IntroduzioBigData/Dispensa.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Dispensa"
+            }
+          },
+          {
+            "id": "e2634935648fb4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroduzioBigData/NoSql Databases/Teorema Cap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teorema Cap"
+            }
+          },
+          {
+            "id": "005f54d4fa81ece9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroduzioBigData/NoSql Databases/Teorema Cap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teorema Cap"
+            }
+          },
+          {
+            "id": "13662d6d2fc22f39",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/Il teorema CAP... in Brewer - MokaByte_1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Il teorema CAP... in Brewer - MokaByte_1"
+            }
+          },
+          {
+            "id": "a70f973074768e01",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IntroduzioBigData/NoSql Databases/slide&PDF/database_nosql_colonnamaurizio.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "database_nosql_colonnamaurizio"
+            }
+          },
+          {
+            "id": "ef9f459fb1f16713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroduzioBigData/NoSql Databases/Key-Value.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key-Value"
+            }
+          },
+          {
+            "id": "7d4b93ca35976c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroduzioBigData/NoSql Databases/Tabella hash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tabella hash"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0ab77c4f8144fa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e121b5b4121c9634",
+        "type": "tabs",
+        "dimension": 68.78306878306879,
+        "children": [
+          {
+            "id": "f6dec0e6a0a912d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "ef805413d6b308ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "b2231e5cb73e8dfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      },
+      {
+        "id": "097cf3edfd178b5d",
+        "type": "tabs",
+        "dimension": 31.216931216931215,
+        "children": [
+          {
+            "id": "3413b2be7d2b94e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IntroduzioBigData/NoSql Databases/Teorema Cap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Teorema Cap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "right": {
+    "id": "d2775f694bc38b51",
+    "type": "split",
+    "children": [
+      {
+        "id": "d09c0975ea8d10ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eaa6d91cbce5997",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Vault/Hadoop&MapReduce/Hadoop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Hadoop"
+            }
+          },
+          {
+            "id": "10806b9c617d3d18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Vault/Hadoop&MapReduce/Hadoop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Hadoop"
+            }
+          },
+          {
+            "id": "72d65d595245534d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "f0ba4c1999b19211",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/Hadoop&MapReduce/Hadoop.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Hadoop"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Crea nuova bacheca": false
+    }
+  },
+  "active": "005f54d4fa81ece9",
+  "lastOpenFiles": [
+    "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/Teorema PACELC - Wikipedia.pdf",
+    "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/Il teorema CAP... in Brewer - MokaByte_1.pdf",
+    "IntroduzioBigData/NoSql Databases/slide&PDF/database_nosql_colonnamaurizio.pdf",
+    "IntroduzioBigData/NoSql Databases/Teorema Cap.md",
+    "IntroduzioBigData/Dispensa.pdf",
+    "IntroduzioBigData/NoSql Databases/NoSql Database.md",
+    "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/Eventually Consistent - Revisited _ All Things Distributed-1.pdf",
+    "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/Il teorema CAP... in Brewer - MokaByte_4.pdf",
+    "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/Il teorema CAP... in Brewer - MokaByte_3.pdf",
+    "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/Il teorema CAP... in Brewer - MokaByte_2.pdf",
+    "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/Teorema della PAC di Brewer - _julianbrowne.pdf",
+    "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/abadi-pacelc.pdf",
+    "IntroduzioBigData/NoSql Databases/Key-Value.md",
+    "IntroduzioBigData/NoSql Databases/Tabella hash.md",
+    "IntroduzioBigData/NoSql Databases/Funzione hash.md",
+    "IntroduzioBigData/NoSql Databases/Pasted image 20250708005328.png",
+    "IntroduzioBigData/NoSql Databases/Pasted image 20250708004805.png",
+    "IntroduzioBigData/Hadoop&MapReduce/HDFS.md",
+    "IntroduzioBigData/NoSql Databases/slide&PDF/Approfondimento Cap/main-qimg-5916d7b68dbcf3bc0c4995f4a045917f-pjlq.jpg",
+    "IntroduzioBigData/Excalidraw/Drawing 2025-06-04 23.08.52.excalidraw.md",
+    "IntroduzioBigData/Hadoop&MapReduce/Hadoop.md",
+    "2025-06-29.md",
+    "IntroduzioBigData/Hadoop&MapReduce/MapReduce.md"
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "main": {
+    "id": "616d1edd4f3082bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7e89e92a8a96b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "843d7f319e1b1ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hadoop&MapReduce/MapReduce.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MapReduce"
+            }
+          },
+          {
+            "id": "85e6ed3e8fd6665f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dispensa.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Dispensa"
+            }
+          },
+          {
+            "id": "36b99be574f7ca0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hadoop&MapReduce/Hadoop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hadoop"
+            }
+          },
+          {
+            "id": "70ab1a2a1355101a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Hadoop&MapReduce/Slide&Pdf/04.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "04"
+            }
+          },
+          {
+            "id": "84abdbc584ad1182",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Hadoop&MapReduce/Slide&Pdf/03.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "03"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "848466a7c4b34f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc04c96cb9bee21",
+        "type": "tabs",
+        "dimension": 55.350066050198144,
+        "children": [
+          {
+            "id": "8cf32f2cb271d853",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "70caeff459223122",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Hadoop&MapReduce/MapReduce.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0609,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Grafo di MapReduce"
+            }
+          },
+          {
+            "id": "7ac15cd790cbe011",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "4f68d541662ee176",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ff90dc02af69973",
+        "type": "tabs",
+        "dimension": 44.649933949801856,
+        "children": [
+          {
+            "id": "3070323e5dbb4612",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hadoop&MapReduce/MapReduce.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di MapReduce"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "cf752abea35b921c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4c8510315acd2ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "405f7bdafeecfff6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hadoop&MapReduce/HDFS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a HDFS"
+            }
+          },
+          {
+            "id": "8801aa0ec939935c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hadoop&MapReduce/HDFS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da HDFS"
+            }
+          },
+          {
+            "id": "007878297b183eb3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "15dd91bfd7e67021",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hadoop&MapReduce/HDFS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di HDFS"
+            }
+          },
+          {
+            "id": "328259b3ed27811c",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e5207205991762b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb015a7c83784679",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hadoop&MapReduce/HDFS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di HDFS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-kanban:Crea nuova bacheca": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "843d7f319e1b1ec3",
+  "lastOpenFiles": [
+    "Hadoop&MapReduce/HDFS.md",
+    "Hadoop&MapReduce/Drawing 2025-06-15 12.39.51.excalidraw.md",
+    "Hadoop&MapReduce/Hadoop.md",
+    "Hadoop&MapReduce/Slide&Pdf/HadoopMapReduceDetail.pdf",
+    "Dispensa.pdf",
+    "Hadoop&MapReduce/immagini/Pasted image 20250610234547.png",
+    "Hadoop&MapReduce/immagini/Pasted image 20250610231834.png",
+    "Hadoop&MapReduce/Slide&Pdf/03.pdf",
+    "Hadoop&MapReduce/Slide&Pdf/04.pdf",
+    "Hadoop&MapReduce/immagini/Pasted image 20250610221938.png",
+    "Hadoop&MapReduce/Slide&Pdf/MapReduce-Exercises.pdf",
+    "2025-06-10.md",
+    "Machine Learning/ML NON Supervisionato/PCA.md",
+    "Machine Learning/ML NON Supervisionato/ML Non Supervisionato.md",
+    "Machine Learning/ML NON Supervisionato/Kmeans.md",
+    "Machine Learning/ML NON Supervisionato/Indice di Davies-Bouldin.md",
+    "Machine Learning/ML NON Supervisionato/Elbow criteria.md",
+    "Machine Learning/ML NON Supervisionato/Clustering Gerarchico.md",
+    "Machine Learning/ML Supervisionato.md",
+    "Machine Learning/Machine Learning.md",
+    "Excalidraw/Drawing 2025-06-04 23.08.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-09 22.48.04.excalidraw.md",
+    "Data Governance/Data Governance.md",
+    "Hadoop&MapReduce/immagini/Pasted image 20250609223003.png",
+    "Hadoop&MapReduce/immagini",
+    "[[.md",
+    "Excalidraw",
+    "Big Data/Big Data.md",
+    "Name Node.md",
+    "Pasted image 20250603001344.png",
+    "Hadoop&MapReduce/Slide&Pdf/Senza nome.md",
+    "Hadoop&MapReduce/Slide&Pdf/MapReduce.pdf",
+    "Hadoop&MapReduce/Slide&Pdf/MapReduce(1).pdf",
+    "Big Data/Slide&Pdf/01.pdf",
+    "Machine Learning/Senza nome.md",
+    "Big Data/MappaBigData.png",
+    "Machine Learning/Immagini/PCA/PCA_mappa.png",
+    "Machine Learning/Immagini/ML Non Supervisionato2.jpg",
+    "Machine Learning/Immagini/Pasted image 20250528215511.png",
+    "Machine Learning/Immagini/Cluster Gerarchico_Dettaglio.png",
+    "Machine Learning/Statistica/Distanza.md",
+    "Machine Learning/Statistica/Varianza.md",
+    "deviazione standard.md",
+    "Machine Learning/Statistica/Standardizazione.md",
+    "Machine Learning/Statistica/matrice di covarianza.md",
+    "Classificazione.md",
+    "Senza nome.canvas",
+    "Senza nome 1.canvas"
+  ]
+}
